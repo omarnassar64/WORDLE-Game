@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/USER/MIA tasks/build",
+  "command": "C:\\MinGW\\bin\\c++.exe -g -o CMakeFiles\\task1.1.dir\\main.cpp.obj -c \"C:\\Users\\USER\\MIA tasks\\main.cpp\"",
+  "file": "C:\\Users\\USER\\MIA tasks\\main.cpp",
+  "output": "CMakeFiles\\task1.1.dir\\main.cpp.obj"
+}
+]
